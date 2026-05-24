@@ -1,10 +1,10 @@
 # Bradley Hankins
 
-## Operations & Revenue Leader | AI Workflow Builder | Practical AI Ops Portfolio
+## Operations & Revenue Leader | AI Workflow Automation | Practical AI Ops Portfolio
 
-I build practical AI-assisted workflow tools that help small and mid-sized businesses improve operations visibility, sales execution, recruiting workflows, CRM discipline, and manager decision-making.
+I build practical AI-assisted workflow tools that help small and mid-sized businesses improve operations visibility, sales execution, recruiting workflows, CRM discipline, process documentation, training consistency, and manager decision-making.
 
-My background combines operations leadership, revenue management, field-sales execution, KPI reporting, recruiting, onboarding, CRM workflows, and AI-assisted process improvement.
+My background combines operations leadership, revenue management, field-sales execution, KPI reporting, recruiting, onboarding, CRM workflows, process improvement, and AI-assisted workflow automation.
 
 This GitHub profile highlights my growing portfolio of lightweight AI operations tools built with Python, Streamlit, GitHub, and practical business logic.
 
@@ -63,6 +63,20 @@ RecruitPilot AI helps hiring managers turn candidate information and interview n
 
 ---
 
+### SOPPilot AI — AI SOP & Training Document Generator
+
+SOPPilot AI helps managers turn rough process notes into standard operating procedures, process checklists, missing-information checks, risk diagnoses, training plans, quality control guides, implementation plans, and downloadable SOP packages.
+
+**Problem Solved:** Small businesses often rely on tribal knowledge, verbal instructions, scattered notes, and inconsistent training instead of repeatable process documentation.
+
+**Built With:** Python, Streamlit, rules-based AI-style workflow logic, Markdown report export
+
+**Links:**  
+[Live Demo](https://soppilot-ai.streamlit.app/)  
+[GitHub Repo](https://github.com/bradleyhankins/soppilot-ai)
+
+---
+
 ## Skills Demonstrated
 
 ### Operations & Revenue
@@ -75,6 +89,7 @@ RecruitPilot AI helps hiring managers turn candidate information and interview n
 - Process improvement
 - Recruiting and onboarding
 - Performance management
+- SOP and training documentation
 
 ### AI Workflow Design
 
@@ -85,6 +100,7 @@ RecruitPilot AI helps hiring managers turn candidate information and interview n
 - Manager-ready report generation
 - Business process mapping
 - Practical AI implementation
+- Process documentation automation
 
 ### Technical Tools
 
@@ -106,8 +122,10 @@ I am building a practical AI operations portfolio focused on tools that help bus
 - Standardize sales follow-up
 - Strengthen CRM discipline
 - Improve hiring consistency
+- Document repeatable processes
+- Improve training and quality control
 - Reduce repetitive admin work
-- Turn scattered data into action-ready outputs
+- Turn scattered data and notes into action-ready outputs
 - Support better manager decision-making
 
 The focus is simple:
